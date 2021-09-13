@@ -1,0 +1,16 @@
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.csproj.AssemblyReference.cache
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.AssemblyInfoInputs.cache
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.AssemblyInfo.cs
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.csproj.CoreCompileInputs.cache
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ProjetoSerie.exe
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ProjetoSerie.deps.json
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ProjetoSerie.runtimeconfig.json
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ProjetoSerie.runtimeconfig.dev.json
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ProjetoSerie.dll
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ref\ProjetoSerie.dll
+C:\Users\Cornetta\ProjetoSerie\bin\Debug\net5.0\ProjetoSerie.pdb
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.dll
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ref\ProjetoSerie.dll
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.pdb
+C:\Users\Cornetta\ProjetoSerie\obj\Debug\net5.0\ProjetoSerie.genruntimeconfig.cache

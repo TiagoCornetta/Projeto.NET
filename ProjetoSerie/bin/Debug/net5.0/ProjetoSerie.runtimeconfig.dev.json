@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cornetta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cornetta\\.nuget\\packages"
+    ]
+  }
+}
